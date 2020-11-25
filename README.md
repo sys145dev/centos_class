@@ -1,1 +1,1 @@
-# centos_class
+# jetbot_class
