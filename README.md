@@ -1,1 +1,1 @@
-# jetbot_class
+# jetsonnano_class
